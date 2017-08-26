@@ -1,1 +1,3 @@
-theme: jekyll-theme-slate
+name: Your New Jekyll Site
+markdown: rdiscount
+pygments: true
